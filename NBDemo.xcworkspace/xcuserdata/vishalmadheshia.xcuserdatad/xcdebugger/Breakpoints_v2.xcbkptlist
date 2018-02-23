@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NBDemo/Helpers/APIManager.swift"
+            timestampString = "541162160.3519779"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "getProperties(forPage:filterModel:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NBDemo/Modules/Properties/Property List/PropertyListViewCell.swift"
+            timestampString = "541162160.352055"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "propertyModel"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NBDemo.PropertyListViewCell.propertyModel.didset : Swift.Optional&lt;NBDemo.PropertyModel&gt;"
+                  moduleName = "NBDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vishalmadheshia/Desktop/Demo/NBDemo/NBDemo/Modules/Properties/Property%20List/PropertyListViewCell.swift"
+                  timestampString = "541162272.256227"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "8195">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #3 : @autoclosure () throws -&gt; Swift.String in NBDemo.PropertyListViewCell.propertyModel.didset : Swift.Optional&lt;NBDemo.PropertyModel&gt;"
+                  moduleName = "NBDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vishalmadheshia/Desktop/Demo/NBDemo/NBDemo/Modules/Properties/Property%20List/PropertyListViewCell.swift"
+                  timestampString = "541162272.259066"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NBDemo/Helpers/APIManager.swift"
+            timestampString = "541162160.352109"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "getProperties(forPage:filterModel:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__ObjC.URLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in NBDemo.APIManager.getProperties(forPage: Swift.Int, filterModel: NBDemo.FilterModel, completion: (Swift.Bool, Swift.Array&lt;NBDemo.PropertyModel&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "NBDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vishalmadheshia/Desktop/Demo/NBDemo/NBDemo/Helpers/APIManager.swift"
+                  timestampString = "541162160.481828"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "2024">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #1 : @autoclosure () throws -&gt; Swift.Array&lt;NBDemo.PropertyModel&gt; in closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__ObjC.URLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in NBDemo.APIManager.getProperties(forPage: Swift.Int, filterModel: NBDemo.FilterModel, completion: (Swift.Bool, Swift.Array&lt;NBDemo.PropertyModel&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "NBDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vishalmadheshia/Desktop/Demo/NBDemo/NBDemo/Helpers/APIManager.swift"
+                  timestampString = "541162160.485797"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NBDemo/Helpers/APIManager.swift"
+            timestampString = "541162337.744206"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "getProperties(forPage:filterModel:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
